@@ -1,7 +1,12 @@
 import streamlit
 
 
-streamlit.title("Some title")
-streamlit.header("Some header")
-streamlit.text("Ahoj lidi")
-streamlit.text("To je fakticky bozi.")
+streamlit.title("Restaurant")
+
+streamlit.header('Breakfast Favorites')
+streamlit.text('🥣 Omega 3 & Blueberry Oatmeal')
+streamlit.text('🥗 Kale, Spinach & Rocket Smoothie')
+streamlit.text('🐔 Hard-Boiled Free-Range Egg')
+streamlit.text('🥑🍞 Avocado Toast')
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
