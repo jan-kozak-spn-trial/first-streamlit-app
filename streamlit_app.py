@@ -1,2 +1,4 @@
-if __name__ == "__main__":
-    print("Hello")
+import streamlit
+
+
+streamlit.title("Some title")
